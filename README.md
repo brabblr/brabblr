@@ -1,2 +1,2 @@
 # brabblr
-one "client" to rule them all
+One "client" to rule them all
